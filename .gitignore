@@ -1,23 +1,14 @@
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Ll]ogs/
-[Uu]ser[Ss]ettings/
-[Bb]uild/
-[Bb]uilds/
-[Mm]emoryCaptures/
-[Rr]ecordings/
-
-.vs/
-.idea/
-.DS_Store
-*.csproj
-*.sln
-*.apk
-*.aab
-
-# Unity temporary files
-.utmp/
+# Unity generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Bb]uild/
+/[Bb]uilds/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/.utmp/
 /UIElementsSchema/
 
 # Editor settings
