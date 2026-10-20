@@ -24,7 +24,6 @@
 *.userprefs
 
 # Build outputs and build debugging folders
-*.apk
 *.aab
 *.app
 /*_BackUpThisFolder_ButDontShipItWithYourGame/
